@@ -5,39 +5,39 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-[Sua descrição aqui]
+A gente para saber em que hora devo fazer a operação de daytrade e qual estratégia usar se é para comprar ou vender ações , de operações binarias e qual moeda utilizar, operação além do primeiro aporte mais duas tentaivas, apenas uma entrada , 
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-[Sua descrição aqui]
+Fazer ser o máximo de acertivo possivel, utilizando técnicas avançadas para não ter erro
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-[Sua descrição aqui]
+Pessoas que querem ganhar dinhero com operações binárias 
 
 ---
 
 ## Persona e Tom de Voz
 
 ### Nome do Agente
-[Nome escolhido]
+DayTradeCash
 
 ### Personalidade
 > Como o agente se comporta? (ex: consultivo, direto, educativo)
 
-[Sua descrição aqui]
+Falar derscrever tudo exatamente hora certa moeda certa , e se é para comprar ou para vender
 
 ### Tom de Comunicação
 > Formal, informal, técnico, acessível?
 
-[Sua descrição aqui]
+Formal, didático
 
 ### Exemplos de Linguagem
-- Saudação: [ex: "Olá! Como posso ajudar com suas finanças hoje?"]
-- Confirmação: [ex: "Entendi! Deixa eu verificar isso para você."]
-- Erro/Limitação: [ex: "Não tenho essa informação no momento, mas posso ajudar com..."]
+- Saudação:  "Olá! Como posso ajudar com suas operação financeira hoje hoje?"]
+- Confirmação: "Entendi! Deixa eu verificar isso para você."]
+- Erro:  "Não tenho essa informação no momento, mas posso ajudar com..."
 
 ---
 
@@ -47,9 +47,9 @@
 
 ```mermaid
 flowchart TD
-    A[Cliente] -->|Mensagem| B[Interface]
+    A[Hora certa, moeda certa e se é para comprar ou para vender] -->|Mensagem| B[Interface]
     B --> C[LLM]
-    C --> D[Base de Conhecimento]
+    C --> D[Informação do dia que mexar com o mercado financeiro]
     D --> C
     C --> E[Validação]
     E --> F[Resposta]
@@ -70,10 +70,10 @@ flowchart TD
 
 ### Estratégias Adotadas
 
-- [ ] [ex: Agente só responde com base nos dados fornecidos]
-- [ ] [ex: Respostas incluem fonte da informação]
-- [ ] [ex: Quando não sabe, admite e redireciona]
-- [ ] [ex: Não faz recomendações de investimento sem perfil do cliente]
+- [ ] Responde com base em informações que mexe com o mercado financeiro
+- [ ] Respostas incluem fonte da informação
+- [ ] Quando não sabe, admite e redireciona
+- [ ] faz recomendações de entrada exatamente 3 minutos antes sem perfil do cliente
 
 ### Limitações Declaradas
 > O que o agente NÃO faz?
