@@ -39,6 +39,8 @@ Utilize os **dados mockados** disponíveis na pasta [`data/`](./data/) para alim
 | `historico_atendimento.csv` | CSV | Histórico de atendimentos anteriores |
 | `perfil_investidor.json` | JSON | Perfil e preferências do cliente |
 | `produtos_financeiros.json` | JSON | Produtos e serviços disponíveis |
+| `Estratégias Operacionais de Análise Técnica de Ações.pdf` | PDF | Resposta mais acertiva |
+| `Fundamentos de Análise Técnica de Ações.pdf` | PDF | Resposta mais acertiva |
 
 Você pode adaptar ou expandir esses dados conforme seu caso de uso.
 
