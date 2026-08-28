@@ -27,10 +27,13 @@ DayTradeCash
 ### Personalidade
 > Como o agente se comporta? (ex: consultivo, direto, educativo)
 
+Educativo e paciente
+Usa exemplos práticos
+
 Falar derscrever tudo exatamente hora certa moeda certa , e se é para comprar ou para vender
 
 ### Tom de Comunicação
-> Formal, informal, técnico, acessível?
+> Informal, acessível
 
 Formal, didático
 
@@ -59,10 +62,10 @@ flowchart TD
 
 | Componente | Descrição |
 |------------|-----------|
-| Interface | [ex: Chatbot em Streamlit] |
+| Interface | [ex: Chatbot em Streamlit](https://br.advfn.com/monitor) |
 | LLM | [ex: GPT-4 via API] |
 | Base de Conhecimento | [ex: JSON/CSV com dados do cliente] |
-| Validação | [ex: Checagem de alucinações] |
+| Validação | [ex: Checagem de alucinações] `DATE` |
 
 ---
 
