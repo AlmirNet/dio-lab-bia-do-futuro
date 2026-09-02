@@ -45,3 +45,9 @@ pip install -r requirements.txt
 # Rodar a aplicação
 streamlit run app.py
 ```
+
+## Evidência de Execução\
+``
+<img width="1915" height="1074" alt="Annotation 2026-09-01 224925" src="https://github.com/user-attachments/assets/79f3bd1d-511e-4016-8081-27f2c49d1d5b" />
+
+``
