@@ -29,11 +29,11 @@ A Bia é uma educadora financeira que ensina de forma personalizada. Usar seus p
 
 ## Checklist do Pitch
 
-- [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
-- [ ] Solução demonstrada na prática
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
+- [ x] Duração máxima de 3 minutos
+- [ x] Problema claramente definido
+- [ x] Solução demonstrada na prática
+- [ x] Diferencial explicado
+- [ x] Áudio e vídeo com boa qualidade
 
 ---
 
