@@ -8,12 +8,12 @@
 ### 1. O Problema (30 seg)
 > Qual dor do cliente você resolve?
 
-62% dos brasileiros não sabem o que é e reserva de emergência. Muita gente quer aprender sobre finanças, mas não sabe por onde começar e tem medo de parecer desprovido de inteligência ao perguntar.
+Muitas pessoas têm dificuldade para organizar a vida financeira, não entendem conceitos básicos sobre dinheiro e acabam não sabendo qual caminho seguir. Além disso, existe insegurança para tirar dúvidas e começar a aprender.
 
 ### 2. A Solução (1 min)
 > Como seu agente resolve esse problema?
 
-A Bia é uma educadora financeira que ensina de forma personalizada. Usar seus próprios dados para dar exemplos práticos, Não recomenda investimento - Só Educa é como ter um profissional particular de finanças disponível 24h.
+A Bia explica finanças de maneira simples e personalizada, adaptando o conteúdo à realidade de cada usuário. Ela utiliza as informações fornecidas pelo próprio cliente para apresentar exemplos práticos, tirar dúvidas e ajudar na construção do conhecimento financeiro, sem indicar investimentos.
 
 ### 3. Demonstração (1 min)
 > Mostre o agente funcionando (pode ser gravação de tela)
