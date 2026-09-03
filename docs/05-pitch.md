@@ -41,4 +41,4 @@ A Bia explica finanças de maneira simples e personalizada, adaptando o conteúd
 
 > Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
 
-[Link do vídeo]
+[[Link do vídeo](https://youtube.com/shorts/vXg5vtrKW8o?si=pNkK88hqU3llbu84)
